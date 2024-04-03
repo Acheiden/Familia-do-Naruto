@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-color:#BCEE68;
+  }
+  #album{
+    border-radius:20px;
+    Width:30%;
+    
+  }
+  #bt{
+    background-color:black;
+    color:yellow;
+    border-radius:10px;
+  }
